@@ -1,3 +1,2 @@
 #!/bin/bash
-chown o vincent, go staff
-chown [vincent]... [OWNER][:[GROUP]] FILE... staff
+chown vincent:staff *
